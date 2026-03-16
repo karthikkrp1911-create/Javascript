@@ -1,7 +1,7 @@
 let number = [1,2,3,4,5,6];
 console.log(number);
 
-let fruits = ['apple', 'grapes', 'orange' ];
+let fruits = ['apple', 'grapes', 'banana' ];
 console.log(fruits);
 
 let car = new Array('ford', 'toya','bmv');
